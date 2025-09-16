@@ -4,7 +4,7 @@ Sou um desenvolvedor iniciante, atualmente em transição de carreira para a ár
 
 ### Sobre Mim
 
-- 🌱 Atualmente estou aprendendo a desenvolver aplicativos e automações com Python.
+- 🌱 Atualmente estou aprendendo a desenvolver aplicativos e automações com Python e Javascript.
 - 👯 Estou procurando colaborar em projetos de código aberto.
 
 ### 🛠️ Habilidades
