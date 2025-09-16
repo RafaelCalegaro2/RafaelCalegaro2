@@ -1,4 +1,4 @@
-# Olá! Eu sou Rafael Calegaro 👋
+# Olá! Eu sou Rafael Calegaro ✌
 
 Sou um desenvolvedor iniciante, atualmente em transição de carreira para a área de programação, com foco em Python.
 
